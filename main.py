@@ -11,15 +11,9 @@ reddit = praw.Reddit(username=config.username,
                      client_secret=config.client_secret,
                      user_agent=config.user_agent)
 
-print(reddit.user.me())
+subreddits = reddit.subreddit('all')
 
-subreddits = reddit.subreddit('test_gandhi_bot')
-
-
-
-print(subreddits)
-
-# phrase to make the bot angry
+# misspelling to make the bot angry
 ghandi = 'ghandi'
 
 insult_conclusion = " The correct spelling is [Gandhi](https://en.wikipedia.org/wiki/Mahatma_Gandhi)."
