@@ -16,7 +16,7 @@ subreddits = reddit.subreddit('all')
 # misspelling to make the bot angry
 ghandi = 'ghandi'
 
-insult_conclusion = " The correct spelling is [Gandhi](https://en.wikipedia.org/wiki/Mahatma_Gandhi)."
+insult_conclusion = " Just so you know, the correct spelling is [Gandhi](https://en.wikipedia.org/wiki/Mahatma_Gandhi)."
 
 print('Starting my watch. Will occasionally print count of posts I have monitored so far\n')
 for count, comment in enumerate(subreddits.stream.comments()):

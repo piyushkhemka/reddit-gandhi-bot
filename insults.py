@@ -1,13 +1,17 @@
 
+
 insults_list = [
-                "I would love to insult you but I’m afraid I won’t do it as well as nature did.",
-                "You consistently set low expectations and fail to achieve them.",
-                "Somewhere out there, there’s a tree whose single purpose on earth is to replace the oxygen you waste. Go find it and apologize.",
-                "Are you naturally this dumb or do you have to put in effort?",
-                "In the land of the witless, you'd be king.",
-                "You aren't pretty enough to be behaving like this.",
                 "Bless your heart!",
                 "You're not being the person Mr. Rogers wants you to be.",
-                "Light travels faster than sound. It makes sense because you seemed bright then you started talking.",
-                "Go stand in the corner & think about what you have done."
+                "Go stand in the corner & think about what you have done.",
+                "It doesn’t matter who you are, where you come from. The ability to triumph begins with you. Always.",
+                "In the middle of difficulty lies opportunity.",
+                "Believe you can and you’re halfway there.",
+                "The only person you are destined to become is the person you decide to be.",
+                "Everyone makes mistakes. Everyone deserves a second chance.",
+                "Mistakes are a fact of life. It is the response to error that counts.",
+                "What is done cannot be undone, but at least one can keep it from happening again.",
+                "Learning by making mistakes and not duplicating them is what life is about.",
                 ]
+
+                
