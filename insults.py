@@ -1,8 +1,6 @@
 
 
 insults_list = [
-                "Bless your heart!",
-                "You're not being the person Mr. Rogers wants you to be.",
                 "Go stand in the corner & think about what you have done.",
                 "It doesn’t matter who you are, where you come from. The ability to triumph begins with you. Always.",
                 "In the middle of difficulty lies opportunity.",
@@ -12,6 +10,21 @@ insults_list = [
                 "Mistakes are a fact of life. It is the response to error that counts.",
                 "What is done cannot be undone, but at least one can keep it from happening again.",
                 "Learning by making mistakes and not duplicating them is what life is about.",
+                "An eye for an eye will only make the whole world blind.",
+                "Happiness is when what you think, what you say, and what you do are in harmony.",
+                "In a gentle way, you can shake the world.",
+                "The future depends on what we do in the present.",
+                "Action expresses priorities.",
+                "The weak can never forgive. Forgiveness is the attribute of the strong.",
+                "Hate the sin, love the sinner.",
+                "Nobody can hurt me without my permission.",
+                "Be the change that you wish to see in the world.",
+                "Freedom is not worth having if it does not include the freedom to make mistakes.",
+                "I will not let anyone walk through my mind with their dirty feet.",
+                "You must not lose faith in humanity. Humanity is like an ocean; if a few drops of the ocean are dirty, the ocean does not become dirty.",
+                "Earth provides enough to satisfy every man's needs, but not every man's greed.",
+                "Truth never damages a cause that is just.",
+                "Whenever you are confronted with an opponent. Conquer him with love.",
+                "The simplest acts of kindness are by far more powerful then a thousand heads bowing in prayer.",
+                "Our ability to reach unity in diversity will be the beauty and the test of our civilisation.",
                 ]
-
-                
